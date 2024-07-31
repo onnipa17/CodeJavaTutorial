@@ -20,7 +20,7 @@ public class CalToNum {
                 break;
             case 2:
                 result = num1 * num2;
-                System.out.println("The product of " + num1 + " *" + num2 + " = " + result);
+                System.out.println("The product of " + num1 + " * " + num2 + " = " + result);
                 break;
             case 3:
                 if (num2 != 0) {
