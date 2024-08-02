@@ -4,7 +4,7 @@ public class BarChart {
         Scanner in = new Scanner(System.in);
         int x;
         System.out.print("Input Data : ");
-        x = in.nextInt();
+        x = in.nextInt(); 
         Bar(x);
     }
     public static void Bar(int data){
